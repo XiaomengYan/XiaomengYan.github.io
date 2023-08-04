@@ -11,5 +11,5 @@ title: Publication
 * 苏静, 肖攀, & 阎晓萌. (2019). 社会资本异质性、融资约束与农户家庭多维贫困. 湖南大学学报：社会科学版, 33(5), 9.
 
 ### Preprints
-* Yu, H., Dou, Z., Chen, Z. and Yan, X., 2023. Optimal subsampling for large scale Elastic-net regression. arXiv preprint arXiv:2305.15177.
-* Zhou, H., Yan, X. and Zhou, L., 2022. Robust joint modeling of sparsely observed paired functional data. arXiv preprint arXiv:2209.00784. 
+* Yu, H., Dou, Z., Chen, Z. and Yan, X., (2023+). Optimal subsampling for large scale Elastic-net regression. arXiv preprint arXiv:2305.15177.
+* Zhou, H., Yan, X. and Zhou, L., (2022+) Robust joint modeling of sparsely observed paired functional data. arXiv preprint arXiv:2209.00784. (Accepted in The Canadian Journal of Statistics.)
