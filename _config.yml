@@ -20,12 +20,11 @@ author: Xiaomeng Yan
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Publication: 
   Teaching:
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - R packages:
+    - Course Materials:
 
 ################
 # --- Logo --- #
