@@ -24,7 +24,7 @@ navbar-links:
   Teaching: "Teaching"
   Resources:
     - R packages:
-    - Course Materials:
+    - Course Materials: "course_materials"
 
 ################
 # --- Logo --- #
