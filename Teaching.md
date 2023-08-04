@@ -17,5 +17,5 @@ title: Teaching
 - Calculus-based introduction to probability and distributions; sampling and descriptive measures; inference and hypothesis testing; analysis of variance; linear regression.
 
 **STAT 630: Overview of MATH STAT**- Spring 2016 *Graduate Level*
--Introduction to mathematical statistics. 
--Topics Covered: basic probability theory and statistical inference from the likelihood point of view and Bayesian methods.
+- Introduction to mathematical statistics. 
+- Topics Covered: basic probability theory and statistical inference from the likelihood point of view and Bayesian methods.
