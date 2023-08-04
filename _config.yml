@@ -21,7 +21,7 @@ author: Xiaomeng Yan
 
 navbar-links:
   Home: "aboutme"
-  Publication: 
+  Publication: "publications"
   Teaching: "Teaching"
   Resources:
     - R packages:
