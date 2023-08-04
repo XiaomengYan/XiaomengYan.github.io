@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-## Classes taught at CUEB
+### Classes taught at CUEB
 **Linear Algebra 线性代数** - Spring 2023 *Undergraduate Level*
 - Topics Covered:  matrices, four subspaces of matrix, linear equations, matrix Decomposition (Spectral Decomposition,Singular Value Decomposition), vector spaces, norms, etc. 
 
