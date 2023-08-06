@@ -7,7 +7,7 @@ title: Course Materials
 ### 大数据预处理 
 *Undergraduate Level*
 #### 课件
-- 第1章 概论 
+- 第1章 概论 [获取课件](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMDNONUtVTlpuc0xmYTI3VHFGeE9KQ2RrY01mR2J4aUJzRWI3Y0R2aEI5OHhEdnB6bHJtWW1hK1ZoVUVFK1BFPSIsInMiOiI5eVBMa2N3Ymsvakk2RGtnSU5FOVN3PT0iLCJpIjoiczA3TmxNODkyYjlHYWxPayJ9)
 - 第2章 数据缺失及其处理
 - 第3章 数据纠错与数据格式处理
 - 第4章 数据离散化
