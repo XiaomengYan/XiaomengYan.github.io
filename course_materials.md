@@ -3,6 +3,7 @@ layout: page
 title: Course Materials
 ---
 
+---
 ### 大数据预处理 
 *Undergraduate Level*
 #### 课件
@@ -14,8 +15,10 @@ title: Course Materials
 - 第6章 异常分布数据处理II: 不平衡数据
 - 第7章 数据缩放
 - 第8章 数据归约
+
 #### 作业
 #### 数据集合
 
+---
 ### 数据挖掘与机器学习
 *Graduate Level*
