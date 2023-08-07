@@ -8,6 +8,7 @@ title: Course Materials
 *Undergraduate Level*
 #### 教材
 * 《大数据预处理——基于Python的应用》任韬、刘帅，首都经济贸易大学出版社
+* 
 #### 课件
 - 第1章 概论 [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMDNONUtVTlpuc0xmYTI3VHFGeE9KQ2RrY01mR2J4aUJzRWI3Y0R2aEI5OHhEdnB6bHJtWW1hK1ZoVUVFK1BFPSIsInMiOiI5eVBMa2N3Ymsvakk2RGtnSU5FOVN3PT0iLCJpIjoiczA3TmxNODkyYjlHYWxPayJ9)
 - 第2章 数据缺失及其处理 [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiU0xXdGZOOG5BTmN4eExEb2dzQWxjUENHcVRkSVhFK1EvYkFqUElrYlIwR0k5V3VyMXc3S1ZPOHVCQW5Ec1drPSIsInMiOiJmeWNHRzNPY1Y5NjUvaitqY2xJdUlnPT0iLCJpIjoiY1RQNkV2QmFadkZ6MFdQbyJ9)
@@ -19,6 +20,7 @@ title: Course Materials
 - 第8章 数据归约 [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaDFUdTA0aFFVVVVJY1huUnBsVUdTaXhJWWVQMGQrclBleGQ0SWtpTnNrckZZOTcybXV0b25BbVBmdTUrU1M4PSIsInMiOiIxZUNITUdxRTFsTVZkNmJoUjdGbGRnPT0iLCJpIjoiQUdjVFpJMjdUWWJYaG1kaiJ9)
 
 #### 作业
+
 #### 数据集合
 * [获取数据](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZy94TGpleDloSnRRcTNjd1o2KzFxZlRzRndQc3JLaEpVV0o0VTN4YzBMWUJXMFBjUTJoMStjVDZObXJMRzBVPSIsInMiOiJiUEVUcUhIYjhMTHUyL2dkQjJlTVpBPT0iLCJpIjoiWWJySGE4T0ZDd1VtbDE3WCJ9)
 * 压缩包含有用于授课的保险公司理赔数据、二手车数据、信用卡诈欺数据。
@@ -28,6 +30,7 @@ title: Course Materials
   ```
 
 ---
+
 ### Data Mining and Machine Learning
 *数据挖掘与机器学习, Graduate Level*
 
