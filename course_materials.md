@@ -18,6 +18,12 @@ title: Course Materials
 
 #### 作业
 #### 数据集合
+* [获取数据](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZy94TGpleDloSnRRcTNjd1o2KzFxZlRzRndQc3JLaEpVV0o0VTN4YzBMWUJXMFBjUTJoMStjVDZObXJMRzBVPSIsInMiOiJiUEVUcUhIYjhMTHUyL2dkQjJlTVpBPT0iLCJpIjoiWWJySGE4T0ZDd1VtbDE3WCJ9)
+* 压缩包含有用于授课的保险公司理赔数据、二手车数据、信用卡诈欺数据。
+* 波士顿房价数据为scikit-learn （版本需低于1.2.0）内置数据，可以使用以下代码获取该数据集。
+  ```{python}
+  from sklearn.datasets import load_bostin
+  ```
 
 ---
 ### 数据挖掘与机器学习
