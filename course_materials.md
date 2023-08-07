@@ -31,7 +31,9 @@ title: Course Materials
 ### Data Mining and Machine Learning
 *数据挖掘与机器学习, Graduate Level*
 #### Textbook
-* Hastie, T., Tibshirani, R., Friedman, J.H. and Friedman, J.H., 2009. **The Elements of Statistical Learning: Data Mining, Inference, and Prediction (Vol. 2, pp. 1-758)**. New York: springer. [下载PDF](https://link.springer.com/book/10.1007/978-0-387-84858-7)
+* Hastie, T., Tibshirani, R., Friedman, J.H. and Friedman, J.H., 2009. **The Elements of Statistical Learning: Data Mining, Inference, and Prediction (Vol. 2, pp. 1-758)**. New York: springer.
+ - [(Download PDF)](https://link.springer.com/book/10.1007/978-0-387-84858-7)
+ - Prerequisite: Linear Algebra, Probability, and Basic Knowledge of Statistical Learning (Reference: **An Introduction to Statistical Learning**. [(Download PDF)](https://www.statlearning.com/))
 
 #### Other Materials
 * Latex Template
