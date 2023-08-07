@@ -24,7 +24,7 @@ title: Course Materials
 * 压缩包含有用于授课的保险公司理赔数据、二手车数据、信用卡诈欺数据。
 * 波士顿房价数据为scikit-learn （版本需低于1.2.0）内置数据，可以使用以下代码获取该数据集。
   ```{python}
-  from sklearn.datasets import load_bostin
+  from sklearn.datasets import load_boston
   ```
 
 ---
