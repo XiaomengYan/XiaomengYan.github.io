@@ -47,38 +47,38 @@ This course provides an introduction to modern techniques for statistical analys
   - The textbook is available online. [(Download PDF)](https://link.springer.com/book/10.1007/978-0-387-84858-7)
  
 #### Slides
-* Lecture 1: Introduction to Statistical Learning and Machine Learning, Supervised Learning, Unsupervised Learning. (Download Slides)
-  - Chapter 1
-  - Chapter 2: 2.1 -- 2.6
-* Lecture 2: Linear Regression, Model Assessment and Selection. (Download Slides)
-  - Chapter 3: 3.1 -- 3.3,
-  - Chapter 7: 7.1 -- 7.5, 7.7
-* Lecture 3: Linear Regression with Derived Input Directions, Shrinkage Methods (Regularization), Cross-Validation, Boostrap. (Download Slides)
-  - Chapter 3: 3.4 -- 3.5
-  - Chapter 7: 7.10, 7.11
-* Lecture 4: Regularization (Lasso, Ridge), Logistic Regression. (Download Slides)
-  - Chapter 3: 3.4, 3.6, 3.8
-  - Chapter 4: 4.4
-* Lecture 5: Kernel Smoothing Methods. (Download Slides)
-  - Chapter 6: 6.1--6.4, 6.6, 6.8
-* Lecture 6: Basis Expansion, Regularization. (Download Slides)
-  - Chapter 5: 5.1, 5.2, 5.4, 5.5, 5.7
+* **Lecture 1**: Introduction to Statistical Learning and Machine Learning, Supervised Learning, Unsupervised Learning. (Download Slides)
+  - *Chapter 1*
+  - *Chapter 2: 2.1 -- 2.6*
+* **Lecture 2**: Linear Regression, Model Assessment and Selection. (Download Slides)
+  - *Chapter 3: 3.1 -- 3.3,*
+  - *Chapter 7: 7.1 -- 7.5, 7.7*
+* **Lecture 3**: Linear Regression with Derived Input Directions, Shrinkage Methods (Regularization), Cross-Validation, Boostrap. (Download Slides)
+  - *Chapter 3: 3.4 -- 3.5*
+  - *Chapter 7: 7.10, 7.11*
+* **Lecture 4**: Regularization (Lasso, Ridge), Logistic Regression. (Download Slides)
+  - *Chapter 3: 3.4, 3.6, 3.8*
+  - *Chapter 4: 4.4*
+* **Lecture 5**: Kernel Smoothing Methods. (Download Slides)
+  - *Chapter 6: 6.1--6.4, 6.6, 6.8*
+* **Lecture 6**: Basis Expansion, Regularization. (Download Slides)
+  - *Chapter 5: 5.1, 5.2, 5.4, 5.5, 5.7*
   - Recommended Reading Materials: 5.8, 5.9 which are important in functional data analysis and signal processing.
-* Lecture 7: Bagging, Additive Models, Trees. (Download Slides)
-  - Chapter 8: 8.7
-  - Chapter 9: 9.1, 9.2
-* Lecture 8: Nearest-Neighbor, Random Forests. (Download Slides)
-  - Chapter 13: 13.4
-  - Chapter 15: 15.1 -- 15.4
-* Lecture 9: Boosting. (Download Slides)
-  - Chapter 10: 10.1 -- 10.5, 10.10, 10.12
-* Lecture 10: Boosting Trees. (Download Slides)
-  - Chapter 10: 10.9, 10.11
-* Lecture 11: Introduction to Ensemble Learning, High-Dimensional Problems. (Download Slides)
-  - Chapter 16: 16.1 -- 16.2
-  - Chapter 18: 18.1, 18.7
-* Lecture 12: Neural Networks. (Download Slides)
-  - Chapter 11
+* **Lecture 7**: Bagging, Additive Models, Trees. (Download Slides)
+  - *Chapter 8: 8.7*
+  - *Chapter 9: 9.1, 9.2*
+* **Lecture 8**: Nearest-Neighbor, Random Forests. (Download Slides)
+  - *Chapter 13: 13.4*
+  - *Chapter 15: 15.1 -- 15.4*
+* **Lecture 9**: Boosting. (Download Slides)
+  - *Chapter 10: 10.1 -- 10.5, 10.10, 10.12*
+* **Lecture 10**: Boosting Trees. (Download Slides)
+  - *Chapter 10: 10.9, 10.11*
+* **Lecture 11**: Introduction to Ensemble Learning, High-Dimensional Problems. (Download Slides)
+  - *Chapter 16: 16.1 -- 16.2*
+  - *Chapter 18: 18.1, 18.7*
+* **Lecture 12**: Neural Networks. (Download Slides)
+  - *Chapter 11*
   
 #### Other Materials
 * Latex Template
