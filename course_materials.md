@@ -34,10 +34,11 @@ title: Course Materials
 ### Data Mining and Machine Learning
 *数据挖掘与机器学习, Graduate Level*
 
-* Course Description:
+* **Course Description**:
+  
 This course provides an introduction to modern techniques for statistical analysis of complex and massive data. It covers most of the machine learning models in supervised learning and unsupervised learning. Examples of these are linear regression, classification, model selection, regularization, basis expansion, kernel smoothing, random forest, and ensemble learning. Applications are discussed as well as computation and theoretical foundations.
 
-* Prerequisites:
+* **Prerequisites**:
   - Linear Algebra
   - Probability
   - Basic Knowledge of Statistical Learning (Reference: **An Introduction to Statistical Learning**. [(Download PDF)](https://www.statlearning.com/))
