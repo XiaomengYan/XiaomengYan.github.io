@@ -10,7 +10,8 @@ title: Course Materials
 * 课程信息[(获取课程大纲)](https://kdocs.cn/l/cng1sNUa84F1)
 
 #### 课件
-- 第1章 概论 [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMDNONUtVTlpuc0xmYTI3VHFGeE9KQ2RrY01mR2J4aUJzRWI3Y0R2aEI5OHhEdnB6bHJtWW1hK1ZoVUVFK1BFPSIsInMiOiI5eVBMa2N3Ymsvakk2RGtnSU5FOVN3PT0iLCJpIjoiczA3TmxNODkyYjlHYWxPayJ9)
+- 第1章 概论 ([课件](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMDNONUtVTlpuc0xmYTI3VHFGeE9KQ2RrY01mR2J4aUJzRWI3Y0R2aEI5OHhEdnB6bHJtWW1hK1ZoVUVFK1BFPSIsInMiOiI5eVBMa2N3Ymsvakk2RGtnSU5FOVN3PT0iLCJpIjoiczA3TmxNODkyYjlHYWxPayJ9)/[代码](
+https://kdocs.cn/l/cpjNx5Iw4fRV))
 - 第2章 数据缺失及其处理 [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiU0xXdGZOOG5BTmN4eExEb2dzQWxjUENHcVRkSVhFK1EvYkFqUElrYlIwR0k5V3VyMXc3S1ZPOHVCQW5Ec1drPSIsInMiOiJmeWNHRzNPY1Y5NjUvaitqY2xJdUlnPT0iLCJpIjoiY1RQNkV2QmFadkZ6MFdQbyJ9)
 - 第3章 数据纠错与数据格式处理 [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiUjRLdzlUREZyYU5uTmZRWDBCb24yZW5YQXFvZDVSM3ZzUm9weFRVVUtsYnJORXBnVEkycDBpZTRkOXlPa3c4PSIsInMiOiJCU3EycUJ4cDlsM0doSHpRa2plRVBRPT0iLCJpIjoiTDg3bTlOSDVKRUNhYkVyTyJ9)
 - 第4章 数据离散化  [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiK1dWNlIyM25SUUNpaGJuMDdMV1hIZ1JzaEovc0JuZkJ2Vzg5T2VwTTgvU3JsZW50SW9JblVVZWRHbUdRQ040PSIsInMiOiJ2T3dwQnkxWUMvSVM1aDRBd0I1Vll3PT0iLCJpIjoiWGNJS3NYcmV4dlNSeXdyayJ9)
