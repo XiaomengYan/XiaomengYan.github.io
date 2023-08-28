@@ -7,7 +7,7 @@ title: Course Materials
 ### 大数据预处理 
 *Undergraduate Level*
 #### 课程大纲
-* 课程信息[(课程大纲)](https://kdocs.cn/l/cng1sNUa84F1)
+* 课程信息 [（课程大纲）](https://kdocs.cn/l/cng1sNUa84F1)
 
 #### 课件
 - 第1章 概论 （[课件](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMDNONUtVTlpuc0xmYTI3VHFGeE9KQ2RrY01mR2J4aUJzRWI3Y0R2aEI5OHhEdnB6bHJtWW1hK1ZoVUVFK1BFPSIsInMiOiI5eVBMa2N3Ymsvakk2RGtnSU5FOVN3PT0iLCJpIjoiczA3TmxNODkyYjlHYWxPayJ9)）
