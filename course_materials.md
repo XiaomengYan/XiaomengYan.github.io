@@ -19,9 +19,12 @@ https://kdocs.cn/l/cbIZMrXs9l89)）
 https://kdocs.cn/l/coFp7tTQuIcu)）
 - 第5章 异常分布数据处理I：低频分类数据、高偏度数据、异常值 （[课件](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiYkhkTzRTU0Rkd1dPZ0ZVWGU2VEtQZytmbUplVWYzRnNiTlBDNlRsSDdKbVpiRWZSSjduRkNnZkZRUE1xN3U0PSIsInMiOiJRSWJ2OEN2bTZkVWg3ZUVIQThZMWdBPT0iLCJpIjoiYW4rTkFnQ0x0YlRBeVQ1UCJ9)/[代码](
 https://kdocs.cn/l/caiKkMBbYIqk)）
-- 第6章 异常分布数据处理II: 不平衡数据 [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoieXp3RUxsNzFFOFQxV0lORng4dGhaakRvSUZOd1hteHo0Y0QwQXgra3FOWTYwUituWEtpQjBHRzhXSDdGWTRjPSIsInMiOiJaUno3enVLaW83K05KYjZtUTdQRklBPT0iLCJpIjoiSHBBUWR4bTRjQnMrV21KViJ9)
-- 第7章 数据缩放 [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZU55UkxadVlGR3E3MVRVTHJ1RThGV3d4aFVYNUNjcS9sQ0ppajZaQjZnVFQrb2E0V1d5S2E3ZDcyWGprOEhrPSIsInMiOiJUeEUwOGRkT2x1NDFIcVZrcXg5TWlRPT0iLCJpIjoidzRpanM2MVhKQjdXMTBjRiJ9)
-- 第8章 数据归约 [(获取课件)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaDFUdTA0aFFVVVVJY1huUnBsVUdTaXhJWWVQMGQrclBleGQ0SWtpTnNrckZZOTcybXV0b25BbVBmdTUrU1M4PSIsInMiOiIxZUNITUdxRTFsTVZkNmJoUjdGbGRnPT0iLCJpIjoiQUdjVFpJMjdUWWJYaG1kaiJ9)
+- 第6章 异常分布数据处理II: 不平衡数据 （[课件](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoieXp3RUxsNzFFOFQxV0lORng4dGhaakRvSUZOd1hteHo0Y0QwQXgra3FOWTYwUituWEtpQjBHRzhXSDdGWTRjPSIsInMiOiJaUno3enVLaW83K05KYjZtUTdQRklBPT0iLCJpIjoiSHBBUWR4bTRjQnMrV21KViJ9)/[代码](
+https://kdocs.cn/l/coRdKmK0Tqco)）
+- 第7章 数据缩放 （[课件](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZU55UkxadVlGR3E3MVRVTHJ1RThGV3d4aFVYNUNjcS9sQ0ppajZaQjZnVFQrb2E0V1d5S2E3ZDcyWGprOEhrPSIsInMiOiJUeEUwOGRkT2x1NDFIcVZrcXg5TWlRPT0iLCJpIjoidzRpanM2MVhKQjdXMTBjRiJ9)/[代码](
+https://kdocs.cn/l/cpk6ZsQJUAb2)）
+- 第8章 数据归约 （[课件](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaDFUdTA0aFFVVVVJY1huUnBsVUdTaXhJWWVQMGQrclBleGQ0SWtpTnNrckZZOTcybXV0b25BbVBmdTUrU1M4PSIsInMiOiIxZUNITUdxRTFsTVZkNmJoUjdGbGRnPT0iLCJpIjoiQUdjVFpJMjdUWWJYaG1kaiJ9)/[代码](
+https://kdocs.cn/l/cb3K2Vyz1Dp1)）
 
 #### 作业
 
