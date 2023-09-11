@@ -68,25 +68,25 @@ This course provides an introduction to modern techniques for statistical analys
 * **Lecture 4**: Regularization (Lasso, Ridge), Logistic Regression. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiRitydW9zQmYrYzQ3RHhReEpMa3U4QTNqdk5rcVpzcm5OQS9WSzR2T2MycVljOWh4Ykp1RHk1Z2p0T3huZWJnPSIsInMiOiJaeHA5RWpnV1ZmZHh4b0J6NXJOLzlRPT0iLCJpIjoiOEFnOFVqU3I3M21vT3Q0ZiJ9))
   - *Chapter 3: 3.4, 3.6, 3.8*
   - *Chapter 4: 4.4*
-* **Lecture 5**: Kernel Smoothing Methods. (Download Slides)
+* **Lecture 5**: Kernel Smoothing Methods. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWWtUTzFqcWRobkN6QU01ZUJheW11cW1RQlMrT0g4cFRoc2lrdFNFUjBZS0FHQ3RDMHVRQTN3Y3YxNFE0dWJFPSIsInMiOiI1NXV1ekVaL09wVFZnY1kreEh4MGtRPT0iLCJpIjoicXdCNFpBbU5yK3JwZGhPUCJ9))
   - *Chapter 6: 6.1--6.4, 6.6, 6.8*
-* **Lecture 6**: Basis Expansion, Regularization. (Download Slides)
+* **Lecture 6**: Basis Expansion, Regularization. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTUh2QXg1TDZWN1ZWUFcxSUE5MTh3UU5Ec1pCWGh6MDRpMTdjZ1hDa0hPMFJKTjRXWmIzMURLa3piQnA5MUJ3PSIsInMiOiJvSExya29CUVpFSnNta2NtcXhLeUdBPT0iLCJpIjoicmFhclhZVDdtYVpiV29qdiJ9))
   - *Chapter 5: 5.1, 5.2, 5.4, 5.5, 5.7*
   - Recommended Reading Materials: 5.8, 5.9 which are important in functional data analysis and signal processing.
-* **Lecture 7**: Bagging, Additive Models, Trees. (Download Slides)
+* **Lecture 7**: Bagging, Additive Models, Trees. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiYVdpYTRLdVZoQjUrUGdVMFI4eWQ4dUo2cFY1eXZhUDZHY0Qrb3ZHeERaYTBrTHF4YzFoVTMzQkJHS0JURTJjPSIsInMiOiIxcks4Sy9tNjFndVZUMlVTMUhuMUVRPT0iLCJpIjoiUHNseXVBb0lvNGgyeThoMiJ9))
   - *Chapter 8: 8.7*
   - *Chapter 9: 9.1, 9.2*
-* **Lecture 8**: Nearest-Neighbor, Random Forests. (Download Slides)
+* **Lecture 8**: Nearest-Neighbor, Random Forests. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNDFQcnlFTUpDR2UwNXhjZXROZU5QSUhJS3dnSnVITVlWRm14byt4Z05jQWswdVN6Y1dXQ2V5ZDN5eHZoNGtzPSIsInMiOiJ5eUpQcDkvRll5cW9nd1RvWXp2aEJnPT0iLCJpIjoiT0RDbDMzcmFzd01ZamVUeiJ9))
   - *Chapter 13: 13.4*
   - *Chapter 15: 15.1 -- 15.4*
-* **Lecture 9**: Boosting. (Download Slides)
+* **Lecture 9**: Boosting. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiRVhERldUVTllKzdVNFJVaVl6UnZsT2RsQzB3bmc4YnF2L1VRZWlCZ2ZLaU9VQVhLKzBRR2MwcGZ2bEhtUi9NPSIsInMiOiJWOUlpaktZT08xd2YzcEJpdGxtL2FBPT0iLCJpIjoiZy9rRFM2NDBqMlNZWkxFMyJ9))
   - *Chapter 10: 10.1 -- 10.5, 10.10, 10.12*
-* **Lecture 10**: Boosting Trees. (Download Slides)
+* **Lecture 10**: Boosting Trees. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiN05uYWg5Z1oyVDJGSkp0S0k2U3N2a0l0ZDg3QlNDYno1TWlRRUFBcFVWc1I0VmJHR1g0bzUxTmZkZE5FdXZZPSIsInMiOiJENzVOOG1ucG44aU4ybkdwd2NVd0JnPT0iLCJpIjoic2pmZG4vQjFUR2pBOUg2UyJ9))
   - *Chapter 10: 10.9, 10.11*
-* **Lecture 11**: Introduction to Ensemble Learning, High-Dimensional Problems. (Download Slides)
+* **Lecture 11**: Introduction to Ensemble Learning, High-Dimensional Problems. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibFNQSlVTQ2xINWxoRkFqMHZIWGF6M2s4MEZEUnJ6Z2M4RW04amtFRzV3QnNRc1NjSDlhZDRDK253bnlnRVRNPSIsInMiOiJUZVoxZ0g3R280V0pydllxMm00d293PT0iLCJpIjoia3VldjdrOWhVMlY3c2RhNCJ9))
   - *Chapter 16: 16.1 -- 16.2*
   - *Chapter 18: 18.1, 18.7*
-* **Lecture 12**: Neural Networks. (Download Slides)
+* **Lecture 12**: Neural Networks. 
   - *Chapter 11*
   
 #### Other Materials
