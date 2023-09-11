@@ -56,7 +56,7 @@ This course provides an introduction to modern techniques for statistical analys
   - The textbook is available online. [(Download PDF)](https://link.springer.com/book/10.1007/978-0-387-84858-7)
  
 #### Slides
-* **Lecture 1**: Introduction to Statistical Learning and Machine Learning, Supervised Learning, Unsupervised Learning. (Download Slides)
+* **Lecture 1**: Introduction to Statistical Learning and Machine Learning, Supervised Learning, Unsupervised Learning. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoid0ZaazROS3BUdnRZVXE0NnV0bFlqYVQ4UVlSQkcvdlFIY29BQTVSV0IwZUN3c2s0WnVrN0E2ZTdIdnBINlI0PSIsInMiOiJCNm0wMnRLVG03MGl4V0M2dmpGVnp3PT0iLCJpIjoiT2dnaUM3aGxTcHNURzgwUiJ9))
   - *Chapter 1*
   - *Chapter 2: 2.1 -- 2.6*
 * **Lecture 2**: Linear Regression, Model Assessment and Selection. (Download Slides)
