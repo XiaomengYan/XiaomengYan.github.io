@@ -59,13 +59,13 @@ This course provides an introduction to modern techniques for statistical analys
 * **Lecture 1**: Introduction to Statistical Learning and Machine Learning, Supervised Learning, Unsupervised Learning. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoid0ZaazROS3BUdnRZVXE0NnV0bFlqYVQ4UVlSQkcvdlFIY29BQTVSV0IwZUN3c2s0WnVrN0E2ZTdIdnBINlI0PSIsInMiOiJCNm0wMnRLVG03MGl4V0M2dmpGVnp3PT0iLCJpIjoiT2dnaUM3aGxTcHNURzgwUiJ9))
   - *Chapter 1*
   - *Chapter 2: 2.1 -- 2.6*
-* **Lecture 2**: Linear Regression, Model Assessment and Selection. (Download Slides)
+* **Lecture 2**: Linear Regression, Model Assessment and Selection. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiYUE5SFdUc1IyS2NWTE9IUSs1OVV0NXVwYTAvRkdFbTdhOG9nSjlGa0Z3RTYwYzhGYWlYOThVaGYwMmN3dmc0PSIsInMiOiJaNmNXUTU4MFlva084R0hHL0hEcndnPT0iLCJpIjoiMmowNEpkaDg2M0RBNHk2USJ9))
   - *Chapter 3: 3.1 -- 3.3,*
   - *Chapter 7: 7.1 -- 7.5, 7.7*
-* **Lecture 3**: Linear Regression with Derived Input Directions, Shrinkage Methods (Regularization), Cross-Validation, Boostrap. (Download Slides)
+* **Lecture 3**: Linear Regression with Derived Input Directions, Shrinkage Methods (Regularization), Cross-Validation, Boostrap. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVnhuR3VGWTUvVE1UYlJpT0dPalZkSDFRaWVWZDBOUVFiaUlIeGNVY1JWZGU4ZjZ2TEFZckNOa0pVWHJMT0ZZPSIsInMiOiJaOEQwelNXNFhadWMyVnZ1ZmlkKzBnPT0iLCJpIjoiRHF5SjJVUkpmUGs2T0FQZCJ9))
   - *Chapter 3: 3.4 -- 3.5*
   - *Chapter 7: 7.10, 7.11*
-* **Lecture 4**: Regularization (Lasso, Ridge), Logistic Regression. (Download Slides)
+* **Lecture 4**: Regularization (Lasso, Ridge), Logistic Regression. ([Download Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiRitydW9zQmYrYzQ3RHhReEpMa3U4QTNqdk5rcVpzcm5OQS9WSzR2T2MycVljOWh4Ykp1RHk1Z2p0T3huZWJnPSIsInMiOiJaeHA5RWpnV1ZmZHh4b0J6NXJOLzlRPT0iLCJpIjoiOEFnOFVqU3I3M21vT3Q0ZiJ9))
   - *Chapter 3: 3.4, 3.6, 3.8*
   - *Chapter 4: 4.4*
 * **Lecture 5**: Kernel Smoothing Methods. (Download Slides)
