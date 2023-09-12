@@ -91,5 +91,5 @@ This course provides an introduction to modern techniques for statistical analys
 
   #### Other Materials
 
-  * [Download Latex Template](https://kdocs.cn/l/cvtKDssh2FuU). Compile with XeLaTex.
+  * Lecture Note. [Download Latex Template](https://kdocs.cn/l/cvtKDssh2FuU). Compile with XeLaTex.
 
