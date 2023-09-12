@@ -88,4 +88,6 @@ This course provides an introduction to modern techniques for statistical analys
   - *Chapter 18: 18.1, 18.7*
 * **Lecture 12**: Neural Networks. 
   - *Chapter 11*
-  
+
+  #### Other Materials
+  * Lecture Note template. [Download Latex Template](https://kdocs.cn/l/cvtKDssh2FuU)
