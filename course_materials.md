@@ -28,6 +28,7 @@ https://kdocs.cn/l/cb3K2Vyz1Dp1)）
 
 #### 作业
 * 第一次作业（作业提交截止日期9月22日17：00）[（作业下载）](https://kdocs.cn/l/ch3WQGyoICIA)
+* 第二次作业（作业提交截止日期10月27日17：00）[(作业下载)](https://kdocs.cn/l/ctMe1eUkT1kM)
 
 #### 数据集合
 * [数据](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZy94TGpleDloSnRRcTNjd1o2KzFxZlRzRndQc3JLaEpVV0o0VTN4YzBMWUJXMFBjUTJoMStjVDZObXJMRzBVPSIsInMiOiJiUEVUcUhIYjhMTHUyL2dkQjJlTVpBPT0iLCJpIjoiWWJySGE4T0ZDd1VtbDE3WCJ9)
