@@ -17,7 +17,7 @@ title: Publication
 
 ### Preprints
 * Yu, H., Dou, Z., Chen, Z. and Yan, X., (2024+). Optimal subsampling for large scale Elastic-net regression. arXiv preprint arXiv:2305.15177.
-* Yan, X., Wang, L., He, S. and Huang, Z.J. (2024+). ICE: Indepen- dent Component Estimation of Spectrophotometric Properties of Type Ia Supernovae. Under Review for The Astrophysical Journal. 
+* Yan, X., Wang, L., He, S. and Huang, Z.J. (2024+). ICE: Independent Component Estimation of Spectrophotometric Properties of Type Ia Supernovae. Under Review for The Astrophysical Journal. 
 
 ### Working Papers
 * Feng, Y., Lv, L., **Yan, X.,** Xu, L., and Liu, T.,(2024+). A gradient-improved sampling plan for surrogate- based aerodynamic shape optimization using discon- tinuous Galerkin methods. 
