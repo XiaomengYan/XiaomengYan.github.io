@@ -4,7 +4,7 @@ title: Publication
 ---
 
 ### Research Papers
-
+* Konchady, T., Macri, M.L., Yan, X., and Huang, Z.J. (2024). The M33 Synoptic Stellar Survey. III. Miras and LPVs in griJHKs. Monthly Notices of the Royal Astronomical Society Main Journal. To appear.
 * Zhou, H., Yan, X. and Zhou, L. (2023). Robust joint modeling of sparsely observed paired functional data. Can J Statistics.
   * [Link: https://doi.org/10.1002/cjs.11796](https://doi.org/10.1002/cjs.11796)
 * He, S. and Yan, X., (2022). Functional principal subspace sampling for large scale functional data analysis. Electronic Journal of Statistics, 16(1), pp.2621-2682.
@@ -16,5 +16,8 @@ title: Publication
 * 苏静, 肖攀, & 阎晓萌. (2019). 社会资本异质性、融资约束与农户家庭多维贫困. 湖南大学学报：社会科学版, 33(5), 9.
 
 ### Preprints
+* Yu, H., Dou, Z., Chen, Z. and Yan, X., (2024+). Optimal subsampling for large scale Elastic-net regression. arXiv preprint arXiv:2305.15177.
+* Yan, X., Wang, L., He, S. and Huang, Z.J. (2024+). ICE: Indepen- dent Component Estimation of Spectrophotometric Properties of Type Ia Supernovae. Under Review for The Astrophysical Journal. 
 
-* Yu, H., Dou, Z., Chen, Z. and Yan, X., (2023+). Optimal subsampling for large scale Elastic-net regression. arXiv preprint arXiv:2305.15177.
+### Working Papers
+* Feng, Y., Lv, L., **Yan, X.,** Xu, L., and Liu, T.,(2024+). A gradient-improved sampling plan for surrogate- based aerodynamic shape optimization using discon- tinuous Galerkin methods. 
