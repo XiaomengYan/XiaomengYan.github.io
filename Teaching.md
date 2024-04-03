@@ -4,6 +4,12 @@ title: Teaching
 ---
 
 ### Classes taught at CUEB
+
+**大数据统计理论与方法前沿（英文）** - 2024春季博士生课程
+**数值分析** - 2024春季本科生课程
+**数据挖掘与机器学习** - 2023秋季博士生课程
+**大数据预处理** - 2023秋季本科生课程
+
 **Linear Algebra 线性代数** - Spring 2023 *Undergraduate Level*
 - Topics Covered:  matrices, four subspaces of matrix, linear equations, matrix Decomposition (spectral decomposition,SVD), vector spaces, norms, etc. 
 
