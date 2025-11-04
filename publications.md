@@ -15,5 +15,6 @@ title: Publication
 
 ### Preprints
 * Yan, X., and He, S., (2025+) Poisson Subsampling for Large-Scale Functional Data Analysis. Under Review for Scandinavian Journal of Statisitcs.
+* Chen, Y., Shi, G., Yan, X., and Zhang, B., (2025+) On the two-sample Behrens-Fisher problem for high-dimensional data. Journal of Multivarate Analysis. To appear. 
 * Yu, H., Dou, Z., Chen, Z. and Yan, X., (2024+). Optimal subsampling for large scale Elastic-net regression. arXiv preprint arXiv:2305.15177.
 * Yan, X., Wang, L., He, S. and Huang, Z.J. (2025+). ICE: Independent Component Estimation of Spectrophotometric Properties of Type Ia Supernovae. Under Review for The Astrophysical Journal.
