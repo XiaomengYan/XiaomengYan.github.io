@@ -6,7 +6,7 @@ title: Publication
 ### Research Papers
 * <ins>Yan, X.</ins>, and He, S., (2026) Poisson Subsampling for Large-Scale Functional Data Analysis. Computational Statistics. To appear.
 * Jiahui Zou, Jie He, <ins>*Xiaomeng Yan</ins>, Xinyu Zhang. (2026). Optimal Poisson subsampling for multiplicative regressions with massive data. Scandinavian Journal of Statistics. To appear. 
-* Zhong, Y., Ma, L., <ins>*Yan, X.</ins> (2026). Topology-optimal multiple gossip steps for decentralized federated learning via gossip tensor. IEEE Transactions on Neural Networks and Learning Systems. 
+* Zhong, Y., Ma, L., <ins>*Yan, X.</ins> (2026). Topology-optimal multiple gossip steps for decentralized federated learning via gossip tensor. IEEE Transactions on Neural Networks and Learning Systems. [Link: https://ieeexplore.ieee.org/document/11429702](https://ieeexplore.ieee.org/document/11429702)
 * Chen, Y., Shi, G., <ins>Yan, X.</ins>, and Zhang, B., (2025) On the two-sample Behrens-Fisher problem for high-dimensional data. Journal of Multivarate Analysis. 
 * Feng, Y., Lv, L., <ins>*Yan, X.</ins>, Xu, L., and *Liu, T.,(2024). A gradient-improved sampling plan for surrogate- based aerodynamic shape optimization using discontinuous Galerkin methods. Physics of Fluids, 36, 086115.
 * Konchady, T., * Macri, M.L., <ins>Yan, X.</ins>, and Huang, Z.J. (2024). The M33 Synoptic Stellar Survey. III. Miras and LPVs in griJHKs. Monthly Notices of the Royal Astronomical Society Main Journal, 531(1), pp. 110–132. [Link:https://doi.org/10.1093/mnras/stae1140](https://doi.org/10.1093/mnras/stae1140)
