@@ -4,6 +4,8 @@ title: Publication
 ---
 
 ### Research Papers
+* <ins>Yan, X.</ins>, and He, S., (2026) Poisson Subsampling for Large-Scale Functional Data Analysis. Computational Statistics. To appear.
+* Jiahui Zou, Jie He, <ins>*Xiaomeng Yan<ins>, Xinyu Zhang. (2026). Optimal Poisson subsampling for multiplicative regressions with massive data. Scandinavian Journal of Statistics. To appear. 
 * Zhong, Y., Ma, L., <ins>*Yan, X.</ins> (2026). Topology-optimal multiple gossip steps for decentralized federated learning via gossip tensor. IEEE Transactions on Neural Networks and Learning Systems. 
 * Chen, Y., Shi, G., <ins>Yan, X.</ins>, and Zhang, B., (2025) On the two-sample Behrens-Fisher problem for high-dimensional data. Journal of Multivarate Analysis. 
 * Feng, Y., Lv, L., <ins>*Yan, X.</ins>, Xu, L., and *Liu, T.,(2024). A gradient-improved sampling plan for surrogate- based aerodynamic shape optimization using discontinuous Galerkin methods. Physics of Fluids, 36, 086115.
@@ -16,7 +18,6 @@ title: Publication
 * 苏静, 肖攀, & <ins>阎晓萌</ins>. (2019). 社会资本异质性、融资约束与农户家庭多维贫困. 湖南大学学报：社会科学版, 33(5), 9.
 
 ### Preprints
-* Yan, X., and He, S., (2026+) Poisson Subsampling for Large-Scale Functional Data Analysis. Under Review for Computational Statistics.
-* Jiahui Zou, Jie He, *Xiaomeng Yan, Xinyu Zhang. (2026+). Optimal Poisson subsampling for multiplicative regressions with massive data. Under Review for Scandinavian Journal of Statistics.
+* <ins>Yan, X.^\dagger</ins>, Qu, J.^\dagger, Huang, Z.J., and Zhang, N., (2026+) Large-Scale Nonparametric Quantile Regression with Basis Sampling. Under Review for Journal of the American Statistics Association. 
 * Yu, H., Dou, Z., Chen, Z. and Yan, X., (2026+). Optimal subsampling for large scale Elastic-net regression. arXiv preprint arXiv:2305.15177.
 * Yan, X., Wang, L., He, S. and Huang, Z.J. (2026+). ICE: Independent Component Estimation of Spectrophotometric Properties of Type Ia Supernovae. Under Review for The Astrophysical Journal.
