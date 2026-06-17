@@ -5,7 +5,7 @@ title: Publication
 
 ### Research Papers
 * <ins>Yan, X.</ins>, and He, S., (2026) Poisson Subsampling for Large-Scale Functional Data Analysis. Computational Statistics. To appear.
-* Jiahui Zou, Jie He, <ins>*Xiaomeng Yan<ins>, Xinyu Zhang. (2026). Optimal Poisson subsampling for multiplicative regressions with massive data. Scandinavian Journal of Statistics. To appear. 
+* Jiahui Zou, Jie He, <ins>*Xiaomeng Yan</ins>, Xinyu Zhang. (2026). Optimal Poisson subsampling for multiplicative regressions with massive data. Scandinavian Journal of Statistics. To appear. 
 * Zhong, Y., Ma, L., <ins>*Yan, X.</ins> (2026). Topology-optimal multiple gossip steps for decentralized federated learning via gossip tensor. IEEE Transactions on Neural Networks and Learning Systems. 
 * Chen, Y., Shi, G., <ins>Yan, X.</ins>, and Zhang, B., (2025) On the two-sample Behrens-Fisher problem for high-dimensional data. Journal of Multivarate Analysis. 
 * Feng, Y., Lv, L., <ins>*Yan, X.</ins>, Xu, L., and *Liu, T.,(2024). A gradient-improved sampling plan for surrogate- based aerodynamic shape optimization using discontinuous Galerkin methods. Physics of Fluids, 36, 086115.
