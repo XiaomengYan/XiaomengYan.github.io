@@ -20,7 +20,7 @@ author: Xiaomeng Yan
 ###############################################
 
 navbar-links:
-  Publication: "publications"
+  Research: "publications"
   Teaching: "Teaching"
   Resources:
     - R packages:
