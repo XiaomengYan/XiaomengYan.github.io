@@ -13,7 +13,7 @@ title: Research
 
 * Zou, J., He, J., <ins>Yan, X.</ins><sup>*</sup>, and Zhang, X. (2026). Optimal Poisson subsampling for multiplicative regressions with massive data. *Scandinavian Journal of Statistics*. [https://doi.org/10.1111/sjos.70080](https://doi.org/10.1111/sjos.70080) 
 
-* Zhong, Y., Ma, L., and <ins>Yan, X.</ins> (2026). Topology-optimal multiple gossip steps for decentralized federated learning via gossip tensor. *IEEE Transactions on Neural Networks and Learning Systems*. [https://doi.org/10.1109/TNNLS.2026.3670013](https://doi.org/10.1109/TNNLS.2026.3670013)
+* Zhong, Y., Ma, L., and <ins>Yan, X.</ins><sup>*</sup> (2026). Topology-optimal multiple gossip steps for decentralized federated learning via gossip tensor. *IEEE Transactions on Neural Networks and Learning Systems*. [https://doi.org/10.1109/TNNLS.2026.3670013](https://doi.org/10.1109/TNNLS.2026.3670013)
 
 * Chen, Y., Shi, G., <ins>Yan, X.</ins>, and Zhang, B.<sup>*</sup> (2025). On the two-sample Behrens–Fisher problem for high-dimensional data. *Journal of Multivariate Analysis*. [https://doi.org/10.1016/j.jmva.2025.105572](10.1016/j.jmva.2025.105572)
 
