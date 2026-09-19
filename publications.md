@@ -24,4 +24,4 @@ title: Publication
 * <ins>Yan, X.</ins>, *Wang, L., He, S. and Huang, Z.J. (2026+). ICE: Independent Component Estimation of Spectrophotometric Properties of Type Ia Supernovae. Under Review for The Astrophysical Journal.
 
 ### Funding
-* 
+* National Natural Science Foundation of China (No.12601523)
