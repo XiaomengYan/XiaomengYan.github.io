@@ -18,7 +18,7 @@ title: Publication
 * 苏静, 肖攀, & <ins>阎晓萌</ins>. (2019). 社会资本异质性、融资约束与农户家庭多维贫困. 湖南大学学报：社会科学版, 33(5), 9.
 
 ### Preprints
-* Zou, J., Yan, X. Zhang, B., and Fan, Y., (2026+)  Optimal subsampling for distributed M-estimation with vertically partitioned massive data. Under Review for Statistics and Computing
+* Zou, J., Yan, X. Zhang, B., and Fan, Y., (2026+)  Optimal subsampling for distributed M-estimation with vertically partitioned massive data. Under Review for Statistics and Computing.
 * <ins>Yan, X.</ins><sup>&dagger;</sup>, Qu, J.<sup>&dagger;</sup>, Huang, Z.J., and *Zhang, N., (2026+) Large-Scale Nonparametric Quantile Regression with Basis Sampling. Under Review for Journal of the American Statistics Association. (equally contributed)
 * Yu, H., Dou, Z., Chen, Z. and <ins>*Yan, X.</ins>, (2026+). Optimal subsampling for large scale Elastic-net regression. arXiv preprint arXiv:2305.15177.
 * <ins>Yan, X.</ins>, *Wang, L., He, S. and Huang, Z.J. (2026+). ICE: Independent Component Estimation of Spectrophotometric Properties of Type Ia Supernovae. Under Review for The Astrophysical Journal.
