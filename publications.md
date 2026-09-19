@@ -31,23 +31,23 @@ title: Research
 
 ### Peer-Reviewed Articles
 
-1. <ins>Yan, X.</ins>, and He, S.<sup>*</sup> (2026). Poisson subsampling for large-scale functional data analysis. *Computational Statistics*. [DOI](https://doi.org/10.1007/s00180-026-01776-w)
+1. <ins>Yan, X.</ins>, and He, S.<sup>*</sup> (2026). Poisson subsampling for large-scale functional data analysis. *Computational Statistics*. [https://doi.org/10.1007/s00180-026-01776-w](https://doi.org/10.1007/s00180-026-01776-w)
 
-2. Zou, J., He, J., <ins>Yan, X.</ins><sup>*</sup>, and Zhang, X. (2026). Optimal Poisson subsampling for multiplicative regressions with massive data. *Scandinavian Journal of Statistics*. [DOI](https://doi.org/10.1111/sjos.70080)
+2. Zou, J., He, J., <ins>Yan, X.</ins><sup>*</sup>, and Zhang, X. (2026). Optimal Poisson subsampling for multiplicative regressions with massive data. *Scandinavian Journal of Statistics*. [https://doi.org/10.1111/sjos.70080](https://doi.org/10.1111/sjos.70080) 
 
-3. Zhong, Y., Ma, L., and <ins>Yan, X.</ins> (2026). Topology-optimal multiple gossip steps for decentralized federated learning via gossip tensor. *IEEE Transactions on Neural Networks and Learning Systems*. [Article](https://ieeexplore.ieee.org/document/11429702)
+3. Zhong, Y., Ma, L., and <ins>Yan, X.</ins> (2026). Topology-optimal multiple gossip steps for decentralized federated learning via gossip tensor. *IEEE Transactions on Neural Networks and Learning Systems*. [https://doi.org/10.1109/TNNLS.2026.3670013](https://doi.org/10.1109/TNNLS.2026.3670013)
 
-4. Chen, Y., Shi, G., <ins>Yan, X.</ins>, and Zhang, B.<sup>*</sup> (2025). On the two-sample Behrens–Fisher problem for high-dimensional data. *Journal of Multivariate Analysis*.
+4. Chen, Y., Shi, G., <ins>Yan, X.</ins>, and Zhang, B.<sup>*</sup> (2025). On the two-sample Behrens–Fisher problem for high-dimensional data. *Journal of Multivariate Analysis*. [https://doi.org/10.1016/j.jmva.2025.105572](10.1016/j.jmva.2025.105572)
 
 5. Feng, Y., Lv, L., <ins>Yan, X.</ins><sup>*</sup>, Xu, L., and Liu, T.<sup>*</sup> (2024). A gradient-improved sampling plan for surrogate-based aerodynamic shape optimization using discontinuous Galerkin methods. *Physics of Fluids*, **36**, 086115.
 
-6. Konchady, T., Macri, M. L.<sup>*</sup>, <ins>Yan, X.</ins>, and Huang, Z. J. (2024). The M33 Synoptic Stellar Survey. III. Miras and LPVs in griJHKs. *Monthly Notices of the Royal Astronomical Society*, **531**(1), 110–132. [DOI](https://doi.org/10.1093/mnras/stae1140)
+6. Konchady, T., Macri, M. L.<sup>*</sup>, <ins>Yan, X.</ins>, and Huang, Z. J. (2024). The M33 Synoptic Stellar Survey. III. Miras and LPVs in griJHKs. *Monthly Notices of the Royal Astronomical Society*, **531**(1), 110–132. [https://doi.org/10.1093/mnras/stae1140](https://doi.org/10.1093/mnras/stae1140)
 
-7. Zhou, H., <ins>Yan, X.</ins>, and Zhou, L.<sup>*</sup> (2023). Robust joint modeling of sparsely observed paired functional data. *Canadian Journal of Statistics*. [DOI](https://doi.org/10.1002/cjs.11796)
+7. Zhou, H., <ins>Yan, X.</ins>, and Zhou, L.<sup>*</sup> (2023). Robust joint modeling of sparsely observed paired functional data. *Canadian Journal of Statistics*. [https://doi.org/10.1002/cjs.11796](https://doi.org/10.1002/cjs.11796)
 
-8. He, S.<sup>*</sup>, and <ins>Yan, X.</ins><sup>*</sup> (2022). Functional principal subspace sampling for large-scale functional data analysis. *Electronic Journal of Statistics*, **16**(1), 2621–2682. [DOI](https://doi.org/10.1214/22-EJS2010)
+8. He, S.<sup>*</sup>, and <ins>Yan, X.</ins><sup>*</sup> (2022). Functional principal subspace sampling for large-scale functional data analysis. *Electronic Journal of Statistics*, **16**(1), 2621–2682.  [ https://doi.org/10.1214/22-EJS2010](https://doi.org/10.1214/22-EJS2010)
 
-9. He, S.<sup>*</sup>, and <ins>Yan, X.</ins> (2020). Randomized estimation of functional covariance operator via subsampling. *Stat*, **9**(1), e311. [DOI](https://doi.org/10.1002/sta4.311)
+9. He, S.<sup>*</sup>, and <ins>Yan, X.</ins> (2020). Randomized estimation of functional covariance operator via subsampling. *Stat*, **9**(1), e311.  [https://doi.org/10.1002/sta4.311](https://doi.org/10.1002/sta4.311)
 
 ### Preprints
 
