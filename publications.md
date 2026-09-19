@@ -23,7 +23,7 @@ title: Research
   
 - Zhou, H., <ins>Yan, X.</ins>, and Zhou, L.* (2023). Robust joint modeling of sparsely observed paired functional data. Canadian Journal of Statistics. [https://doi.org/10.1002/cjs.11796](https://doi.org/10.1002/cjs.11796)
   
-- He, S.*, and <ins>Yan, X.</ins>* (2022). Functional principal subspace sampling for large-scale functional data analysis. Electronic Journal of Statistics, **16**(1), 2621–2682.  [ https://doi.org/10.1214/22-EJS2010](https://doi.org/10.1214/22-EJS2010)
+- He, S.\*, and <ins>Yan, X.*</ins> (2022). Functional principal subspace sampling for large-scale functional data analysis. Electronic Journal of Statistics, **16**(1), 2621–2682.  [ https://doi.org/10.1214/22-EJS2010](https://doi.org/10.1214/22-EJS2010)
   
 - He, S.*, and <ins>Yan, X.</ins> (2020). Randomized estimation of functional covariance operator via subsampling. Stat, **9**(1), e311.  [https://doi.org/10.1002/sta4.311](https://doi.org/10.1002/sta4.311)
 
@@ -35,7 +35,7 @@ title: Research
 
 - Yu, H., Dou, Z., Chen, Z., and <ins>Yan, X.</ins>* (2026). Optimal subsampling for large-scale elastic net regression. *arXiv preprint arXiv:2305.15177*. [arXiv](https://arxiv.org/abs/2305.15177)
 
-- <ins>Yan, X.</ins>, Wang, L.*, He, S., and Huang, Z. J. (2026). ICE: Independent component estimation of spectrophotometric properties of Type Ia supernovae. *Under review at The Astrophysical Journal*.
+- <ins>Yan, X.</ins>, Wang, L.\*, He, S., and Huang, Z. J. (2026). ICE: Independent component estimation of spectrophotometric properties of Type Ia supernovae. *Under review at The Astrophysical Journal*.
 
 ## Research Funding
 
