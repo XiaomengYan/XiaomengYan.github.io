@@ -29,7 +29,7 @@ title: Research
 
 ### Preprints
 
-1. Zou, J., <ins>Yan, X.</ins>, Zhang, B., and Fan, Y. (2026). Optimal subsampling for distributed M-estimation with vertically partitioned massive data. *Under review at Statistics and Computing*.
+1. Zou, J., <ins>Yan, X.</ins>, Zhang, B., and Fan, Y.<sup>*</sup> (2026). Optimal subsampling for distributed M-estimation with vertically partitioned massive data. *Under review at Statistics and Computing*.
 
 2. <ins>Yan, X.</ins><sup>†</sup>, Qu, J.<sup>†</sup>, Huang, Z. J., and Zhang, N.<sup>*</sup> (2026). Large-scale nonparametric quantile regression with basis sampling. *Under review at the Journal of the American Statistical Association*.
 
@@ -39,4 +39,4 @@ title: Research
 
 ## Research Funding
 
-- **National Natural Science Foundation of China (NSFC)**, Grant No. 12601523.
+* **National Natural Science Foundation of China (NSFC)**, Grant No. 12601523.
