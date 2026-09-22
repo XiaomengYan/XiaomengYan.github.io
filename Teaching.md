@@ -5,16 +5,11 @@ title: Teaching
 
 ### Classes taught at CUEB
 
-**大数据统计理论与方法前沿（英文）** - 2024春季博士生课程
-
-**数值分析** - 2024春季本科生课程
-
-**数据挖掘与机器学习** - 2023秋季博士生课程
-
-**大数据预处理** - 2023秋季本科生课程
-
-**Linear Algebra 线性代数** - Spring 2023 *Undergraduate Level*
-- Topics Covered:  matrices, four subspaces of matrix, linear equations, matrix Decomposition (spectral decomposition,SVD), vector spaces, norms, etc. 
+- **Foundation of Statistical Programming （统计编程基础)** - *2024/2025/2026 Fall* Undergraduate Level
+- **Machine Learning and Data mining (数据挖掘与机器学习)** - *2023/2024/2025/2026 Fall* Graduate Level
+- **Numerical Analysis （数值分析)** - *2024/2025/2026 Spring* Undergraduate Level
+- **Advanced Statistical Learning: Theory and Methods (大数据统计理论与方法前沿** - *2024/2025 Spring* Graduate Level
+- **Big Data Preprocessing (大数据预处理)** - *2023/2024 Fall* Undergraduate Leve
 
 ---
 ### Classes taught/TA at Texas A&M University
