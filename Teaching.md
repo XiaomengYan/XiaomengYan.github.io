@@ -9,7 +9,7 @@ title: Teaching
 - **Machine Learning and Data mining (数据挖掘与机器学习)** - *2023/2024/2025/2026 Fall* Graduate Level
 - **Numerical Analysis （数值分析)** - *2024/2025/2026 Spring* Undergraduate Level
 - **Advanced Statistical Learning: Theory and Methods (大数据统计理论与方法前沿** - *2024/2025 Spring* Graduate Level
-- **Big Data Preprocessing (大数据预处理)** - *2023/2024 Fall* Undergraduate Leve
+- **Big Data Preprocessing (大数据预处理)** - *2023/2024 Fall* Undergraduate Level
 
 ---
 ### Classes taught/TA at Texas A&M University
